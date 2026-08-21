@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_ingreso">#15803D</color>
+    <color name="color_gasto">#DC2626</color>
+    <color name="color_ingreso_claro">#BBF7D0</color>
+    <color name="color_gasto_claro">#FECACA</color>
+    <color name="color_tarjeta_resumen">#0F766E</color>
+    <color name="color_primario">#0F766E</color>
+</resources>
